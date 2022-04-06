@@ -1,0 +1,49 @@
+.coffee {
+width: 50%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+.about{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tables{
+font-family: Arial, Helvetica, sans-serif;
+width: 50%;
+text-align: center;
+}
+
+.tables th {
+background-color: #473E2B;
+border: 2px solid;
+padding: 3px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+letter-spacing: 2px;
+
+
+}
+
+.tables td {
+background-color:#c5970e;
+border: 2px solid;
+padding: 3px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: oblique; 
+}
+
+.scrollToTop {
+    margin: 0 30px 20px 0;
+    text-align: center;
+    text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: none;
+    font-size: 30px;
+  }
+  
+  .scrollToTop:hover {
+    text-decoration: none;
+  }
+  
+ 
